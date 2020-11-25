@@ -1,5 +1,5 @@
 # Weather App Using Api 
-This app requires for you to accept it to use location information. When doing that the app will get your coordinates and pick a place nearby. 
+This app requires for you to accept the use of location information. When doing that the app will get your coordinates and pick a place nearby. 
 
 What the app displays taken from api: 
 - Your location
